@@ -5,5 +5,6 @@ vendor
 public/log/log.log
 
 
+.vagrant
 
 puphpet/config-custom.yaml
